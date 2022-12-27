@@ -13,7 +13,9 @@
         }       
        public  static void Main(string[] args)
         {
-            List<person> listperson = new List<person>();           
+            List<person> listperson = new List<person>();
+           Addrecords(listperson);
+           
         }
     }
     
